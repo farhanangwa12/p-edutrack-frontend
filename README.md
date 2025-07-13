@@ -37,5 +37,5 @@ EduTrack Frontend adalah aplikasi dashboard berbasis web yang dikembangkan mengg
 1. **Clone Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/farhanangwa12/p-edutrack-frontend.git
    cd edutrack-frontend
